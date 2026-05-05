@@ -20,7 +20,7 @@ projeto/
 ├── README.md               # Instruções de execução do projeto
 └── requirements.txt        # Bibliotecas necessárias
 
-# omo executar o projeto
+# Como executar o projeto
 
 ## Preparar os dados:
 Baixe o arquivo CSV original no link do Kaggle citado acima.
